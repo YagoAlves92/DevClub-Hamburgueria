@@ -10,13 +10,23 @@
 -Capa
 <br>
 <img src="https://github.com/YagoAlves92/DevClub-Hamburgueria/blob/main/assets/hmb1.png?raw=true">
+<br>
 -ForEach
 <br>
 <img src="https://github.com/YagoAlves92/DevClub-Hamburgueria/blob/main/assets/hmb2.png?raw=true">
+<br>
 -Map
 <br>
 <img src="https://github.com/YagoAlves92/DevClub-Hamburgueria/blob/main/assets/hmb3.png?raw=true">
+<br>
 -Reduce
 <br>
 <img src="https://github.com/YagoAlves92/DevClub-Hamburgueria/blob/main/assets/hmb4.png?raw=true">
-
+<br>
+-Filter
+<br>
+<img src="https://github.com/YagoAlves92/DevClub-Hamburgueria/blob/main/assets/hmb5.png?raw=true">
+<br>
+-Filter
+<br>
+<img src="https://github.com/YagoAlves92/DevClub-Hamburgueria/blob/main/assets/hmb6.png?raw=true">
